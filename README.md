@@ -1,5 +1,6 @@
 # Section3_ReviewExercise
 Modified Leaflet and Highcharts Templates for Peer Review
+( Note that you may be asked in IE to allow display and in Google to execute script)
 
 This page is viewable here: https://ibhola.github.io/Section3_ReviewExercise/
 
