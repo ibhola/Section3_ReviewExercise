@@ -4,7 +4,8 @@ Modified Leaflet and Highcharts Templates for Peer Review
 
 This page is viewable here: https://ibhola.github.io/Section3_ReviewExercise/
 
-The following is the forked Simple Leaflet Map
+The following is the forked <a href="http://ibhola.github.io/leaflet-map-simple"> Simple Leaflet Map</a>
+click marker for pop-up
 
 <iframe src="http://ibhola.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
 
