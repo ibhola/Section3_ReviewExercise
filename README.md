@@ -11,6 +11,6 @@ click marker for pop-up
 
 <p/>
 
-The following is the forked <a href="https://ibhola.github.io/highcharts-scatter-csv/">Simple Leaflet Map</a>
+The following is the forked <a href="https://ibhola.github.io/highcharts-scatter-csv/">High Chart Scatter graph</a>
 
 <iframe src="https://ibhola.github.io/highcharts-scatter-csv/" width="90%" height="350"></iframe>
