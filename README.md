@@ -9,6 +9,7 @@ click marker for pop-up
 
 <iframe src="http://ibhola.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
 
+<p/>
 
 The following is the forked <a href="https://ibhola.github.io/highcharts-scatter-csv/">Simple Leaflet Map</a>
 
