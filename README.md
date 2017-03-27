@@ -7,7 +7,7 @@ This page is viewable here: https://ibhola.github.io/Section3_ReviewExercise/
 The following is the forked <a href="http://ibhola.github.io/leaflet-map-simple"> Simple Leaflet Map</a>
 <br/> <i>click marker for pop-up</i>
 
-<iframe src="http://ibhola.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
+<iframe src="https://ibhola.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
 
 <p/>
 
